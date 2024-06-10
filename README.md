@@ -26,5 +26,4 @@ console.
 Ex.: Lucas seu salário é R$ 5700,00 sua faixa de imposto é 5 e o valor do imposto de renda a ser pago é: R$ 682,54
 
 Bônus.
-Adquira as informações de nome e salário da classe Pessoa via console, utilizando a classe
-Scanner;
+Adquira as informações de nome e salário da classe Pessoa via console, utilizando a classe Scanner.
