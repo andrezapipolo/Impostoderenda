@@ -1,4 +1,4 @@
-Cansado de conferir os descontos em sua folha de pagamento manualmente, João da Silva lhe contratou para escrever um aplicativo que faça o cálculo do valor de imposto de renda a ser recolhido de seu salário. A tabela de descontos do IRPF 2024 é a seguinte:
+<p align="justify">Cansado de conferir os descontos em sua folha de pagamento manualmente, João da Silva lhe contratou para escrever um aplicativo que faça o cálculo do valor de imposto de renda a ser recolhido de seu salário. A tabela de descontos do IRPF 2024 é a seguinte:</p>
 
 Faixas do IR Parcela salarial em cada faixa Alíquota
 Faixa 1: Até R$ 2.112 isento
@@ -17,12 +17,8 @@ Faixas do IR Parcela salarial em cada faixa Alíquota Imposto pago sobre a parce
 Total Salário: R$ 4.000
 Alíquota efetiva: 6,2% Total pago: R$ 248,26
 
-Sabendo disso escreva uma classe Pessoa deve receber via construtor os atributos nome(String)
-e salário (double);
-Em seguida crie uma classe FaixaImpostoDeRenda. Essa classe retorna um inteiro conforme a faixa da tabela-1. Crie outra classe ImpostoDeRenda que receberá como parâmetro um objeto da classe Pessoa, em seu construtor. A classe ImpostoDeRenda deverá ter um método calcular( ),
-calculando o IR a pagar e definindo a faixa de IR da pessoa e também o método imprimir( ), que deverá imprimir as informações na tela.
-Após na classe principal crie alguns objetos do tipo Pessoa e ImpostoDeRenda e imprima no
-console.
+<p align="justify">Sabendo disso escreva uma classe Pessoa deve receber via construtor os atributos nome(String) e salário (double); Em seguida crie uma classe FaixaImpostoDeRenda. Essa classe retorna um inteiro conforme a faixa da tabela-1. Crie outra classe ImpostoDeRenda que receberá como parâmetro um objeto da classe Pessoa, em seu construtor. A classe ImpostoDeRenda deverá ter um método calcular( ), calculando o IR a pagar e definindo a faixa de IR da pessoa e também o método imprimir( ), que deverá imprimir as informações na tela. Após na classe principal crie alguns objetos do tipo Pessoa e ImpostoDeRenda e imprima no console.</p>
+
 Ex.: Lucas seu salário é R$ 5700,00 sua faixa de imposto é 5 e o valor do imposto de renda a ser pago é: R$ 682,54
 
 Bônus.
